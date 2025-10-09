@@ -50,6 +50,6 @@ Systeme solaire/
 └── autres_planètes/ (optionnel)
 
 
-    PS : Le fichier Earth.py est indispensable pour le Dashbord .
+    PS : Le fichier Earth.py est indispensable pour le Dashboard .
 
 By Gleaphe 2025 .
