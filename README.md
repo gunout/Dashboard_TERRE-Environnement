@@ -24,18 +24,31 @@
 # ARBORESCENCE 
 
 Systeme solaire/
+
 │
+
 ├── Earth/
+
 │ ├── Earth.py
+
 │ ├── Dashboard/
+
 │ │ ├── Dashboard.py
+
 │ │ ├── requirements.txt
+
 │ │ └── assets/ (optionnel - pour les images, CSS, etc.)
+
 │ ├── data/ (optionnel - pour les données sauvegardées)
+
 │ │ └── earth_temperature_data_1850_2025.csv (exemple)
+
 │ └── README.md
+
 │
+
 └── autres_planètes/ (optionnel)
+
 
     PS : Le fichier Earth.py est indispensable pour le Dashbord .
 
