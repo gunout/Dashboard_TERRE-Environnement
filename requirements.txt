@@ -1,1 +1,8 @@
-pip install pandas numpy matplotlib seaborn plotly dash dash-bootstrap-components scikit-learn
+pandas 
+numpy 
+matplotlib 
+seaborn 
+plotly 
+dash 
+dash-bootstrap-components 
+scikit-learn
